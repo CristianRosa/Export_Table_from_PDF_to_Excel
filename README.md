@@ -1,1 +1,1 @@
-# Extract_Table_From_PDF
+# Export table(s) from PDF directly to Excel.
